@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"natours","dependencies":{"dotenv":{"version":"16.0.3"},"express":{"version":"4.18.2"},"mongoose":{"version":"5.13.15"},"morgan":{"version":"1.10.0"},"slugify":{"version":"1.6.5"},"validator":{"version":"13.7.0"}}}
